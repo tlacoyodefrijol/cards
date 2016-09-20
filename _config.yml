@@ -8,9 +8,8 @@
 # Site settings
 title: IODC evening events
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-During IODC week we'll have a bunch of events. We want everyone to come and engage with the community!
-
+description: "During IODC week we'll have a bunch of events
+We want everyone to come and engage with the community!"
 
 baseurl: "/cards" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
