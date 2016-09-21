@@ -2,6 +2,6 @@
 layout: post
 title:  "CKAN, SCODA, OKSpain"
 categories: jekyll update
-img: image-2.png
+img: image-1.jpg
 ---
 On the night of the 4th we'll host a happy hour along with the CKAN Association, School of Data and OK Spain.
