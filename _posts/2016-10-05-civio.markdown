@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fundacion Civio meetupq"
+title:  "Fundacion Civio meetup"
 categories: jekyll update
 img: civio.png
 ---
