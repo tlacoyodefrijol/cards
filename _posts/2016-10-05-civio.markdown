@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Fundacion Civio meetupq"
+categories: jekyll update
+---
+
+Make the most of your time at the International Open Data Conferencehttp://www.civio.es/en/ in Madrid by joining us [the Fundación Civio, a Spanish non-for-profit civic technology organization with the mission to improve government transparency and accountability] and other #IODC participants for pre-event drinks to be held on Wednesday October 5 from 19:30pm – 21:30pm at The Hat, an amazing rooftop bar over looking the city centre, right by Plaza Mayor. 
+ 
+We shall relax with a drink, meet up with old friends, make some new and raise a glass to a good conference. 
+
+Are you attending? If so, please register [here](https://attending.io/events/iodc16-pre-event-meetup-hosted-by-civio)
