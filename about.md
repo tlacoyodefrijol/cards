@@ -7,4 +7,4 @@ permalink: /about/
 
 <div class="mt50"></div>
 
-Webjeda cards is a Bootstrap based theme. Any Bootstrap element can be used in the theme. Read [Webjeda Blog](http://blog.webjeda.com){: target="_blank"} for jekyll tutorials. 
+This is the unofficial evening to the IODC! Add your event by emailing - network-team@okfn.org 
