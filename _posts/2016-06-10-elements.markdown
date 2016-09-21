@@ -1,7 +1,0 @@
----
-layout: post
-title:  "elements"
-categories: jekyll update
-img: image-4.png
----
-DIY street art glossier banh mi. Scenester fam viral woke meh helvetica. Messenger bag gentrify thundercats ramps. Direct trade heirloom hot chicken next level fashion axe fixie, cold-pressed banjo food truck yuccie cray put a bird on it twee DIY.
